@@ -4,6 +4,7 @@
 :set tabstop=8
 filetype plugin on
 ":set colorcolumn=80
+:syntax on
 
 :nnoremap t :tabnext<CR>
 :nnoremap T :tabprevious<CR>
